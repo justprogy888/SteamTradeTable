@@ -16,7 +16,6 @@ function MainPage() {
     const [sortingOrderSells,setSortingOrderSells] = useState(2)
     const [sortingOrderProfit,setSortingOrderProfit] = useState(2)
     const [isLoading, setIsLoading] = useState(false)
-    //const [messageText,setMessageText] = useState("Loading")
     const [sortId,setSortId] = useState(0)
     if(priceMin == undefined){
         setPriceMin(1.0)
