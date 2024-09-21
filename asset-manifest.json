@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/SteamTradeTable/static/css/main.df2488aa.css",
+    "main.css": "/SteamTradeTable/static/css/main.1b3f741e.css",
     "main.js": "/SteamTradeTable/static/js/main.e05c13fb.js",
     "static/media/logo.svg": "/SteamTradeTable/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/SteamTradeTable/index.html",
     "static/media/down-arrow.svg": "/SteamTradeTable/static/media/down-arrow.877d63837aef5b35449d7887a991b86a.svg",
     "static/media/up-arrow.svg": "/SteamTradeTable/static/media/up-arrow.36febaf8ef30371da16620ff287bee3d.svg",
-    "main.df2488aa.css.map": "/SteamTradeTable/static/css/main.df2488aa.css.map",
+    "main.1b3f741e.css.map": "/SteamTradeTable/static/css/main.1b3f741e.css.map",
     "main.e05c13fb.js.map": "/SteamTradeTable/static/js/main.e05c13fb.js.map"
   },
   "entrypoints": [
-    "static/css/main.df2488aa.css",
+    "static/css/main.1b3f741e.css",
     "static/js/main.e05c13fb.js"
   ]
 }
