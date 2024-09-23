@@ -27,9 +27,9 @@ Button "Refresh" - sends request to the api and refreshes the items
 Click on item name to copy it.
 
 **Important:**
-_Items update every 30 minutes, so prices might not be accurate.
+_Items update every 30 minutes, so prices might not be accurate._
 
-To know when price for item was updated, double click on the item_
+_To know when price for item was updated, double click on the item_
 
 ## How to make profit
 
